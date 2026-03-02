@@ -2,8 +2,8 @@
 This repository contains your project instructions
 
 ## Project 1 - Simple SpringBoot REST API
-## CODE FREEZE: Thursday March 6, 2026 - 10am ET
-## PRESENTATION: Friday March 6, 2026 - 10am ET
+### CODE FREEZE: Thursday March 6, 2026 - 10am ET
+### PRESENTATION: Friday March 6, 2026 - 10am ET
 
 ### Project Description
 For this project you will work alone to build a backend-only REST API using Java + Spring Boot with an in-memory H2 database. Your project should have the following:
