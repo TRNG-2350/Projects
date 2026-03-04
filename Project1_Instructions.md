@@ -1,7 +1,4 @@
-# Projects
-This repository contains your project instructions
-
-## Project 1 - Simple SpringBoot REST API
+# Project 1 - Simple SpringBoot REST API
 ### CODE FREEZE: Thursday, March 5, 2026 - 10am ET
 ### PRESENTATION: Friday, March 6, 2026 - 10am ET
 
